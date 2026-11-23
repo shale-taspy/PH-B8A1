@@ -1,7 +1,7 @@
 # TypeScript Assignment
 
 ## Overview
-This repository contains my solutions for the TypeScript & OOP assignment. It includes 8 problem-solving tasks in `solution.ts` and two blog posts.
+This repository contains my TypeScript & OOP assignment solutions. It contains eight problem-solving tasks `solution.ts` and two blog posts.
 
 ## Blog Posts
 - [TypeScript Under the Hood](./ts-underTheHood.md)
